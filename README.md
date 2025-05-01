@@ -1,0 +1,2 @@
+# js-hindi
+A CODE REPO FOR JAVASCRIPT
